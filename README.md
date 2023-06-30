@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500"/>
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="1000"/>
 </div>
 <h1 align="center">Hi :wave:, I'm Aladejebi Gbenga</h1>
 <h3 align="center">A Data Analyst and Engineer</h3>
