@@ -1,3 +1,6 @@
+# MY PROFILE
+A part of my world as a visionary orchestrator, seamlessly blending the art of extracting insights from raw information with the science of harnessing the power of data to drive informed decisions.
+
 <div id="header" align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="1000"/>
 </div>
